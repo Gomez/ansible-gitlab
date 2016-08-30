@@ -1,6 +1,14 @@
 Changelog
 =========
 
+v0.1.5
+------
+
+*Unreleased*
+
+- Add support for GitLab 8.11 [gomez]
+
+
 v0.1.4
 ------
 
